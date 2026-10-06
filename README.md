@@ -21,10 +21,10 @@ DevOps & Tools: Git • Docker • Vercel • Linux
 
 | Project | Highlights & Problem Solved | Core Stack | Showcase |
 | :--- | :--- | :--- | :---: |
-| 🚗 **[TRAVORA](https://brianhanif.vercel.app/projects/travora)** | Multi-tenant commercial fleet rental & operations platform with strict row-level isolation and real-time fleet calendar. | `Laravel` `MySQL` `Midtrans` | [Live Site ↗](https://brianhanif.vercel.app/projects/travora) |
-| 🏛️ **[SIAMI UTM](https://brianhanif.vercel.app/projects/siami-utm)** | University-wide internal quality audit governance system managing 106 standards & 918 indicators for 63 auditors. | `Laravel` `PostgreSQL` `PHP` | [Case Study ↗](https://brianhanif.vercel.app/projects/siami-utm) |
-| 🔬 **[MicroExp Studio](https://brianhanif.vercel.app/projects/microexp-studio)** | Computer vision toolkit for high-speed facial dataset acquisition, 3D landmark tracking, and zero-RAM chunked export. | `FastAPI` `Python` `React` | [Case Study ↗](https://brianhanif.vercel.app/projects/microexp-studio) |
-| ⚡ **[SaaS Central](https://brianhanif.vercel.app/projects/saas-central)** | Centralized subscription control plane, automated billing webhooks, dynamic tenant quotas, and licensing engine. | `Laravel` `MySQL` `Midtrans` | [Live Engine ↗](https://brianhanif.vercel.app/projects/saas-central) |
+| 🚗 **[TRAVORA](https://brianhanif.vercel.app/projects/travora)** | Multi-tenant commercial fleet rental & operations platform with strict row-level isolation and real-time fleet calendar. | `Laravel` `MySQL` `Midtrans` | [Link ↗](https://brianhanif.vercel.app/projects/travora) |
+| 🏛️ **[SIAMI UTM](https://brianhanif.vercel.app/projects/siami-utm)** | University-wide internal quality audit governance system managing 106 standards & 918 indicators for 63 auditors. | `Laravel` `PostgreSQL` `PHP` | [Link ↗](https://brianhanif.vercel.app/projects/siami-utm) |
+| 🔬 **[MicroExp Studio](https://brianhanif.vercel.app/projects/microexp-studio)** | Computer vision toolkit for high-speed facial dataset acquisition, 3D landmark tracking, and zero-RAM chunked export. | `FastAPI` `Python` `React` | [Link ↗](https://brianhanif.vercel.app/projects/microexp-studio) |
+| ⚡ **[SaaS Central](https://brianhanif.vercel.app/projects/saas-central)** | Centralized subscription control plane, automated billing webhooks, dynamic tenant quotas, and licensing engine. | `Laravel` `MySQL` `Midtrans` | [Link ↗](https://brianhanif.vercel.app/projects/saas-central) |
 
 ---
 
