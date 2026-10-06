@@ -27,29 +27,33 @@ Software Engineer with a focus on building practical, reliable, and user-centric
 
 ### Featured Projects
 
-#### 1. [Travora — Regional Tourism & Travel Booking Platform](https://brianhanif.vercel.app/projects/travora)
-*Integrated regional travel ecosystem featuring dynamic package booking and interactive itinerary exploration.*
-- Engineered an end-to-end booking and exploration platform with responsive UI, dynamic pricing calculation, and unified inquiry management.
-- Implemented clean client-side caching and optimistic UI updates for frictionless search and discovery workflows.
-- **Stack:** Next.js, React, Tailwind CSS, Node.js, PostgreSQL
+#### 1. [TRAVORA — Multi-Tenant Fleet Rental Management Platform](https://brianhanif.vercel.app/projects/travora)
+*Cloud-Based Multi-Tenant Vehicle Rental Operations & Fleet Management Platform*
+- Enforced strict row-level tenant isolation across all relational models, ensuring 100% data confidentiality between competing rental fleet businesses.
+- Designed an operational fleet calendar tracking real-time vehicle availability, driver mobile portal REST APIs, and automated gross revenue/fuel expense bookkeeping.
+- **Impact:** Live in production (`travoraindonesia.com`), actively subscribed to and used daily by 3 commercial rental fleet business owners.
+- **Stack:** Laravel, PHP, MySQL, Midtrans Payment Gateway, Bootstrap CSS, REST API
 
-#### 2. [SIAMI UTM — Institutional Quality Assurance System](https://brianhanif.vercel.app/projects/siami-utm)
-*Internal academic audit system deployed for university-wide accreditation workflows.*
-- Designed hierarchical data structures managing 106 academic quality standards and 918 evaluation indicators with role-based access control (RBAC).
-- Actively utilized by 63 faculty auditors and 150+ department representatives for annual institutional evaluations.
-- **Stack:** Laravel, PostgreSQL, PHP, Bootstrap, Chart.js
+#### 2. [SIAMI UTM — University-Wide Internal Quality Audit System](https://brianhanif.vercel.app/projects/siami-utm)
+*University-Wide Internal Quality Audit & Accreditation Governance Platform*
+- Architected 8 Domain-Driven Services managing an interconnected hierarchy of 106 academic standards and 918 evaluation indicators with role-based access control (RBAC).
+- Implemented mathematical score normalization algorithms standardizing diverse qualitative scales into the unified 1.00–4.00 national BAN-PT/LAM accreditation benchmark.
+- **Impact:** Officially adopted university-wide across all 30+ study programs, 7 faculties, and university units (LP3MP, UPT, UPA), actively used by 63 faculty auditors.
+- **Stack:** Laravel, PHP, MySQL, Domain Services, DomPDF, PHPUnit, Playwright
 
-#### 3. [Micro-Expression Studio — High-Throughput CV Data Capture Platform](https://brianhanif.vercel.app/projects/microexp-studio)
-*Computer vision platform for high-speed camera streaming, facial dataset collection, and temporal annotation.*
-- Built a high-frequency video capture pipeline supporting real-time 60fps streaming and temporal micro-movement annotation tools.
-- Engineered a zero-RAM streaming dataset exporter processing large multi-gigabyte video batches into standardized binary formats.
-- **Stack:** Next.js, TypeScript, Python, OpenCV, WebSockets, Tailwind CSS
+#### 3. [Micro-Expression Studio — Computer Vision Dataset Acquisition Toolkit](https://brianhanif.vercel.app/projects/microexp-studio)
+*High-Throughput Micro-Expression Video Acquisition & Dataset Processing Toolkit*
+- Engineered an in-browser 3D facial landmark tracking pipeline (MediaPipe Vision WASM, 478 landmarks) and true apex muscular strain localization with head-motion compensation.
+- Implemented a Zero-RAM HTTP chunked streaming pipeline exporting multi-gigabyte video dataset archives without memory spikes or server Out-Of-Memory (OOM) crashes.
+- **Impact:** Funded by a national research grant from Kemendiktisaintek; processed 56,200+ raw frames and 759 HD video samples from 45 human subjects.
+- **Stack:** FastAPI, Python, React, TypeScript, Docker, SQLite, MediaPipe Vision WASM, OpenCV, Tailwind CSS
 
-#### 4. [SaaS Central — Multi-Tenant Management & Licensing Control Center](https://brianhanif.vercel.app/projects/saas-central)
-*Centralized control center for tenant provisioning, automated licensing, and operational analytics.*
-- Implemented robust multi-tenant organization boundaries, API key metering, and automated subscription lifecycle management.
-- Built administrative analytics dashboards for tracking real-time usage metrics and tenant health telemetry.
-- **Stack:** Next.js, TypeScript, PostgreSQL (Neon Cloud), Prisma ORM, Tailwind CSS
+#### 4. [SaaS Central — Subscription & Multi-Tenant Control Plane](https://brianhanif.vercel.app/projects/saas-central)
+*Centralized Subscription Control Plane, Tenant Quota Management & Payment Gateway*
+- Built a centralized subscription billing plane decoupled from tenant applications, handling automated self-service tier upgrades (Starter, Pro, Enterprise) via Midtrans.
+- Engineered cryptographic webhook signature verification (SHA-512) and atomic state machines with dynamic resource quota enforcement (vehicle/driver accounts).
+- **Impact:** Operates as the central billing and licensing engine powering the commercial multi-tenant SaaS Travora (`travoraindonesia.com`).
+- **Stack:** Laravel, PHP, MySQL, Midtrans Payment Gateway, Tailwind CSS, REST API
 
 ---
 
