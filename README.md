@@ -1,101 +1,73 @@
-<div align="center">
+# Brian Hanif
 
-# Hi there, I'm Brian Hanif 👋
-**Undergraduate Computer Science Student & Software Engineer**
+**Software Engineer** • Undergraduate Computer Science Student  
+East Java, Indonesia • [brianhanif.vercel.app](https://brianhanif.vercel.app) • [LinkedIn](https://linkedin.com/in/hanifbrian) • [Email](mailto:brianhanif12345@gmail.com)
 
-[![Website](https://img.shields.io/badge/Live_Portfolio-091122?style=for-the-badge&logo=vercel&logoColor=06b6d4)](https://my-portfolio-website-ebon-nine.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hanifbrian)
-[![Email](https://img.shields.io/badge/Email-brianhanif12345%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brianhanif12345@gmail.com)
+---
+
+### Overview
+
+Software Engineer with a focus on building practical, reliable, and user-centric web applications and backend systems. Experienced in full-cycle product development—from system modeling, database architecture, and API integration to responsive frontend interfaces.
+
+- **Primary Focus:** TypeScript, Next.js (App Router), React, Node.js, PostgreSQL, and Laravel.
+- **Background:** Practical problem-solving for institutional systems, multi-tenant platforms, and real-time telemetry applications.
+- **Portfolio:** [https://brianhanif.vercel.app](https://brianhanif.vercel.app)
+
+---
+
+### Technical Skills
+
+- **Languages:** TypeScript, JavaScript, PHP, Python, SQL, HTML/CSS
+- **Frontend Development:** React, Next.js (App Router), Tailwind CSS, State Management, Responsive UI/UX
+- **Backend & APIs:** Next.js Server Actions & Route Handlers, Node.js, Laravel (Eloquent), FastAPI, RESTful APIs, WebSockets
+- **Databases & ORM:** PostgreSQL (Neon Cloud), MySQL, Prisma ORM, Database Indexing & Query Optimization
+- **Tools & Infrastructure:** Git, GitHub Actions, Docker, Vercel, Postman, Linux Environment
+
+---
+
+### Featured Projects
+
+#### 1. [Travora — Regional Tourism & Travel Booking Platform](https://brianhanif.vercel.app/projects/travora)
+*Integrated regional travel ecosystem featuring dynamic package booking and interactive itinerary exploration.*
+- Engineered an end-to-end booking and exploration platform with responsive UI, dynamic pricing calculation, and unified inquiry management.
+- Implemented clean client-side caching and optimistic UI updates for frictionless search and discovery workflows.
+- **Stack:** Next.js, React, Tailwind CSS, Node.js, PostgreSQL
+
+#### 2. [SIAMI UTM — Institutional Quality Assurance System](https://brianhanif.vercel.app/projects/siami-utm)
+*Internal academic audit system deployed for university-wide accreditation workflows.*
+- Designed hierarchical data structures managing 106 academic quality standards and 918 evaluation indicators with role-based access control (RBAC).
+- Actively utilized by 63 faculty auditors and 150+ department representatives for annual institutional evaluations.
+- **Stack:** Laravel, PostgreSQL, PHP, Bootstrap, Chart.js
+
+#### 3. [Micro-Expression Studio — High-Throughput CV Data Capture Platform](https://brianhanif.vercel.app/projects/microexp-studio)
+*Computer vision platform for high-speed camera streaming, facial dataset collection, and temporal annotation.*
+- Built a high-frequency video capture pipeline supporting real-time 60fps streaming and temporal micro-movement annotation tools.
+- Engineered a zero-RAM streaming dataset exporter processing large multi-gigabyte video batches into standardized binary formats.
+- **Stack:** Next.js, TypeScript, Python, OpenCV, WebSockets, Tailwind CSS
+
+#### 4. [SaaS Central — Multi-Tenant Management & Licensing Control Center](https://brianhanif.vercel.app/projects/saas-central)
+*Centralized control center for tenant provisioning, automated licensing, and operational analytics.*
+- Implemented robust multi-tenant organization boundaries, API key metering, and automated subscription lifecycle management.
+- Built administrative analytics dashboards for tracking real-time usage metrics and tenant health telemetry.
+- **Stack:** Next.js, TypeScript, PostgreSQL (Neon Cloud), Prisma ORM, Tailwind CSS
+
+---
+
+### Contribution & GitHub Activity
+
+[![Brian Hanif GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifbrian123&theme=tokyonight&bg_color=040711&color=06b6d4&line=06b6d4&point=38bdf8&area=true&hide_border=true)](https://github.com/hanifbrian123)
 
 <br />
 
-```typescript
-const developer = {
-  name: "Brian Hanif",
-  role: "Software Engineer",
-  education: "Undergraduate Computer Science (GPA: 3.84 / 4.00)",
-  focus: ["Full-Stack Web Development", "Backend Systems", "Real-World Engineering"],
-  currentStack: ["TypeScript", "Next.js", "React", "PostgreSQL", "Laravel", "Tailwind CSS"],
-  location: "Indonesia",
-};
-```
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifbrian123&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" width="380" />
 </div>
 
 ---
 
-### 🚀 About Me
+### Contact
 
-I am a Software Engineer and Computer Science student passionate about building practical, reliable, and user-centric software solutions. I have hands-on experience designing and deploying applications used in production by businesses, universities, and organizations.
-
-- 🔭 **Currently Building:** Full-stack web applications with Next.js (App Router), TypeScript, and PostgreSQL.
-- 💡 **Engineering Philosophy:** Grounded problem-solving, clean code architecture, and measurable performance improvements.
-- 🌱 **Learning & Exploring:** Distributed system patterns, high-concurrency caching strategies, and WebSocket streaming infrastructure.
-- 💬 **Open For:** Software Engineering roles, backend/full-stack opportunities, and freelance collaborations.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `TypeScript` `JavaScript` `PHP` `Python` `SQL` `HTML5` `CSS3` |
-| **Frontend** | `React` `Next.js (App Router)` `Tailwind CSS` `Lucide Icons` |
-| **Backend & APIs** | `Next.js Server Actions` `Node.js` `Laravel` `FastAPI` `RESTful APIs` `WebSockets` |
-| **Databases & ORM** | `PostgreSQL (Neon Cloud)` `MySQL` `Prisma ORM` `Eloquent ORM` |
-| **Tools & Infrastructure** | `Git` `GitHub` `Docker` `Vercel` `Postman` `Prisma Studio` `Linux` |
-
-</div>
-
----
-
-### 🌟 Featured Projects
-
-#### 1. [CBT Real-Time Exam & Proctoring System](https://my-portfolio-website-ebon-nine.vercel.app/projects/cbt-monitoring)
-*Comprehensive online exam platform with real-time video telemetry and automated question banking.*
-- Engineered an asynchronous TCP WebSocket video relay server with low latency (<30ms) for real-time exam telemetry.
-- Built an exam interface handling strict question delivery, automated timing, and synchronized state.
-- **Tech Stack:** Next.js, TypeScript, FastAPI, WebSockets, PostgreSQL, Tailwind CSS.
-
-#### 2. [Belgan Multi-Tenant E-Commerce Platform](https://my-portfolio-website-ebon-nine.vercel.app/projects/belgan-ecommerce)
-*Scalable multi-tenant retail platform with dynamic storefront builder and financial ledger.*
-- Integrated RajaOngkir multi-courier shipping queries with a 48-hour memoized caching layer, slashing external API latency by >95% (1,500ms down to <20ms).
-- Handled seamless Midtrans Snap payment gateway integration with idempotent webhook processing.
-- **Tech Stack:** Laravel, PHP, MySQL, Midtrans API, RajaOngkir API, Tailwind CSS.
-
-#### 3. [SIAMI UTM — Academic Audit & Quality Assurance](https://my-portfolio-website-ebon-nine.vercel.app/projects/siami-utm)
-*Institutional quality assurance system deployed across university faculties and study programs.*
-- Manages 106 academic quality standards and 918 evaluation indicators in an interconnected hierarchy.
-- Actively used by 63 faculty auditors and 150+ academic representatives for annual accreditation workflows.
-- **Tech Stack:** Laravel, PostgreSQL, PHP, Bootstrap, Chart.js.
-
-#### 4. [Personal Portfolio & Content Management Hub](https://my-portfolio-website-ebon-nine.vercel.app)
-*Production web portfolio built with Next.js 15, Neon PostgreSQL, and a customized administrative dashboard.*
-- Full server-side data fetching via Prisma ORM and Server Actions for draft/publish project workflows.
-- **Tech Stack:** Next.js 15, React 19, TypeScript, PostgreSQL (Neon Cloud), Prisma ORM, Tailwind CSS.
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hanifbrian123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="Brian Hanif GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifbrian123&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-### 📬 Connect with Me
-
-- 🌐 **Live Portfolio:** [my-portfolio-website-ebon-nine.vercel.app](https://my-portfolio-website-ebon-nine.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/hanifbrian](https://linkedin.com/in/hanifbrian)
-- ✉️ **Email:** [brianhanif12345@gmail.com](mailto:brianhanif12345@gmail.com)
-- 📱 **WhatsApp:** [+62 895-1250-2908](https://wa.me/6289512502908)
-
-<div align="center">
-  <sub>Designed & Developed by Brian Hanif © 2026</sub>
-</div>
+- **Website:** [brianhanif.vercel.app](https://brianhanif.vercel.app)
+- **LinkedIn:** [linkedin.com/in/hanifbrian](https://linkedin.com/in/hanifbrian)
+- **Email:** [brianhanif12345@gmail.com](mailto:brianhanif12345@gmail.com)
+- **WhatsApp:** [+62 895-1250-2908](https://wa.me/6289512502908)
