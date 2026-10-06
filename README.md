@@ -57,14 +57,15 @@ Software Engineer with a focus on building practical, reliable, and user-centric
 
 ---
 
-### Contribution & GitHub Activity
+### GitHub Activity & Contribution Heatmap
 
-[![Brian Hanif GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanifbrian123&theme=tokyonight&bg_color=040711&color=06b6d4&line=06b6d4&point=38bdf8&area=true&hide_border=true)](https://github.com/hanifbrian123)
+![Brian Hanif 52-Week Contribution Heatmap](https://ghchart.rshah.org/06b6d4/hanifbrian123)
 
 <br />
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifbrian123&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" width="380" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hanifbrian123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&icon_color=06b6d4&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanifbrian123&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=06b6d4&text_color=94a3b8" alt="Top Languages" width="48%" />
 </div>
 
 ---
